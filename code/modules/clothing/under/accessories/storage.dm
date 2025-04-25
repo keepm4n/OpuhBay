@@ -164,6 +164,7 @@
 		/obj/item/device/multitool,
 		/obj/item/rcd_ammo/magnetic_ammo,
 		/obj/item/ammo_magazine,
+		/obj/item/cell/ammo/charge,
 		/obj/item/net_shell,
 		/obj/item/reagent_containers/vessel/beaker/vial,
 		/obj/item/ammo_casing/grenade

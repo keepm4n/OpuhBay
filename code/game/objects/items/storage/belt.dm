@@ -171,6 +171,7 @@
 		/obj/item/device/megaphone,
 		/obj/item/melee,
 		/obj/item/gun/projectile/pistol/vp78,
+		/obj/item/gun/charge/pistol,
 		/obj/item/taperoll,
 		/obj/item/device/holowarrant,
 		/obj/item/rcd_ammo/magnetic_ammo,
